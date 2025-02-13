@@ -25,7 +25,7 @@ const Contact = () => {
           <p className="text-gray-500">
             Tel: (+91) 123-4567890 <br /> Email: XYZ@gmail.com
           </p>
-          <p className="font-semibold text-lg text-gray-600">Careers at PRESCRIPTO</p>
+          <p className="font-semibold text-lg text-gray-600">Careers at CLINIX-XYZ</p>
           <p className="text-gray-500">Learn more about our teams and job openings.</p>
           <button className="border borde-black px-8 py-4 text-sm rounded-xl hover:bg-black hover:text-white transition-all duration-500">Eplore jobs</button>
         </div>
